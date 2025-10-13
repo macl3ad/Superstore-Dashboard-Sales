@@ -17,6 +17,10 @@ The dataset was used for educational purposes
 ## Files
 - [superstore.pbix](superstore.pbix) — Power BI project file
 - [superstore.pdf](superstore.pdf) — PDF-version
+- [sample_superstore.csv](sample_superstore.csv) — Dataset
+
+## Note
+When opening, the error “DataSource.NotFound” will appear. Select **Transform Data → Edit Parameters** and update the path to the CSV file
 
 ## Key Insights
 - West — top region in all categories

@@ -19,7 +19,7 @@ The dataset was used for educational purposes
 - [superstore.pdf](superstore.pdf) — PDF-version
 
 ## Key Insights
-West — top region in all categories
-Furniture: 20% of all sales and 32% of revenue, but only 6.5% of profit - low margins
-In the Technology category, the Phones subcategory leads in terms of the number of orders, but only two phones are included in the top 10 products - high diverse of the product range
-For more than 5000 orders, only 3 products had >20 orders - business is evenly distributed across a wide range of products
+- West — top region in all categories
+- Furniture: 20% of all sales and 32% of revenue, but only 6.5% of profit - low margins
+- In the Technology category, the Phones subcategory leads in terms of the number of orders, but only two phones are included in the top 10 products - high diverse of the product range
+- For more than 5000 orders, only 3 products had >20 orders - business is evenly distributed across a wide range of products

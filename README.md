@@ -20,7 +20,9 @@ The dataset was used for educational purposes
 - [sample_superstore.csv](sample_superstore.csv) — Dataset
 
 ## Note
-When opening, the error “DataSource.NotFound” will appear. Select **Transform Data → Edit Parameters** and update the path to the CSV file
+This Power BI file is configured to load data directly from this GitHub repository via the web.
+
+As long as you have an active internet connection, the data will refresh successfully. There is no need to edit local paths or parameters.
 
 ## Key Insights
 - West — top region in all categories
